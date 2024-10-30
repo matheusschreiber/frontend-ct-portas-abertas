@@ -1,15 +1,9 @@
 .mainContainer {
   width: 70%;
   margin: 1rem auto;
-  object-fit: cover;
-}
-
-.mainContainer img {
-  object-fit: cover;
 }
 
 .card {
-  object-fit: fill;
   height: 100%;
 }
 
