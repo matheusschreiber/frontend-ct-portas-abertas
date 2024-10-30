@@ -1,0 +1,10 @@
+.mainContainer {
+  width: 70%;
+  margin: 1rem auto;
+}
+
+.card p {
+  font-size: 15pt;
+  margin-top: -2rem;
+  font-weight: bold;
+}

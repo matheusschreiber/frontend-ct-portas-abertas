@@ -112,6 +112,12 @@ export default function NavBar({ localPage }: NavBarProps) {
             PALESTRA POCKET
           </li>
         </Link>
+
+        <Link href="./photos">
+          <li id={page == "photos" ? styles.selected : ""}>
+            FOTOS 2023
+          </li>
+        </Link>
       </ul>
     </div>
   );
