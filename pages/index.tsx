@@ -41,6 +41,7 @@ const Home: NextPage = () => {
           </li>
           <li>Mostra de projetos.</li>
           <li>Palestra Pocket sobre Inteligência Artificial (13/11 às 10h).</li>
+          <li>1ª Semana de Informática em Saúde (<a href="https://life.inf.ufes.br/sis/" target="blank">Clique aqui para ver a programação</a>).</li>
           <li>Apresentação da banda dos professores do CT.</li>
         </ol>
 
