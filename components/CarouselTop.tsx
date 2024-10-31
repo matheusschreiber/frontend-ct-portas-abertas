@@ -21,8 +21,8 @@ export function CarouselTop() {
       <Carousel>
         {
           items.map((photo, idx)=>(
-            <div className={styles.card}>
-              <img key={idx} src={photo.imageUrl} className={styles.card}/>
+            <div key={idx} className={styles.card}>
+              <img src={photo.imageUrl} className={styles.card}/>
               {/* <p>{photo.title}</p> */}
             </div>
           ))
