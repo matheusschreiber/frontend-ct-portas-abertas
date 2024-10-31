@@ -42,6 +42,8 @@ const Home: NextPage = () => {
           <li>Mostra de projetos.</li>
           <li>Palestra Pocket sobre Inteligência Artificial (13/11 às 10h).</li>
           <li>1ª Semana de Informática em Saúde (<a href="https://life.inf.ufes.br/sis/" target="blank">Clique aqui para ver a programação</a>).</li>
+          <li>Exposição do Museu Capixaba do Computador (<a href="https://www.instagram.com/museucapixaba/profilecard/?igsh=YWJzbzV2ZG0zY3I3" target="blank">Clique aqui para ver o Instagram do MCC</a>).</li>
+          <li>Apresentação da banda dos alunos do CT.</li>
           <li>Apresentação da banda dos professores do CT.</li>
         </ol>
 
