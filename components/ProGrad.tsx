@@ -5,7 +5,7 @@ import SDCLogo from '../assets/SDCLogo.png'
 import PROAECILogo from '../assets/PROAECILogo.png'
 import PROGRADLogo from '../assets/PROGRADLogo.png'
 
-export const PROGRADURL = "https://prograd.ufes.br/mostra2022"
+export const PROGRADURL = "https://www.ufes.br/conteudo/semana-do-conhecimento-2024-acontece-em-novembro-nos-quatro-campi-da-ufes-agende-se"
 
 export default function ProGrad() {
 
